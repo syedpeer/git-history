@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[310],{585:function(n,e){Prism.languages["t4-vb"]=Prism.languages["t4-templating"].createT4("visual-basic")}}]);
